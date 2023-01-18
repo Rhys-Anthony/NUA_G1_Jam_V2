@@ -761,3 +761,79 @@ Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Bind Event to NPC_R
 [2023.01.18-06.57.40:588][930]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/NUA_G1_GJ.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Intermediate/TurnkeyReport_1.log" -log="E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Intermediate/TurnkeyLog_1.log" -project="E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/NUA_G1_GJ.uproject"  -Device=Win64@DESKTOP-4535B52" -nocompile ]
 [2023.01.18-06.57.41:398][ 22]LogTurnkeySupport: Completed device detection: Code = 0
 [2023.01.18-06.57.41:398][ 22]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-4535B52: (Name=DESKTOP-4535B52, Status=Valid, Installed=10.0.19045.0, MinAllowed=10.0.18362.0, MaxAllowed=, Flags="Device_InstallSoftwareValid")
+[2023.01.18-06.58.00:279][680]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-4535B52
+[2023.01.18-06.58.01:298][800]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.01.18-06.58.01:308][800]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.18-06.58.01:308][800]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.18-06.58.01:308][800]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.18-06.58.01:308][800]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.18-06.58.01:308][800]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.18-06.58.01:308][800]LogWorldPartition: Display: GetPartitionedActors took 57 us
+[2023.01.18-06.58.01:308][800]LogWorldPartition: Display: GenerateStreaming took 267 us
+[2023.01.18-06.58.01:308][800]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.18-06.58.01:308][800]BlueprintLog: Warning: Blueprint failed to compile:  Main_Wid
+[2023.01.18-06.58.01:308][800]LogCustomDialog: Dialog displayed:
+[2023.01.18-06.58.03:341][800]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widget/Old_Widget/Main_Wid.Main_Wid
+[2023.01.18-06.58.03:341][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.18-06.58.03:347][800]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.18-06.58.03:700][800]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.18-06.58.03:700][800]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.18-06.58.03:732][800]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.01.18-06.58.03:881][800]LogAutomationController: Ignoring very large delta of 2.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.18-06.58.05:915][ 36]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2023.01.18-06.58.06:155][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2023.01.18-06.58.06:887][ 83]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.01.18-06.58.06:887][ 83]LogSavePackage: Moving 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Saved/BP_ThirdPersonCharacterF1869FC2415DB745BFA7FDA47055FC75.tmp' to 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.01.18-06.58.06:901][ 83]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.01.18-06.58.06:901][ 83]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.01.18-06.58.09:552][351]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.01.18-06.58.09:562][351]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.18-06.58.09:562][351]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.18-06.58.09:562][351]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.18-06.58.09:562][351]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.18-06.58.09:562][351]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.18-06.58.09:562][351]LogWorldPartition: Display: GetPartitionedActors took 49 us
+[2023.01.18-06.58.09:562][351]LogWorldPartition: Display: GenerateStreaming took 233 us
+[2023.01.18-06.58.09:562][351]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.18-06.58.09:562][351]BlueprintLog: Warning: Blueprint failed to compile:  Main_Wid
+[2023.01.18-06.58.09:562][351]LogCustomDialog: Dialog displayed:
+[2023.01.18-06.58.11:929][351]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.01.18-06.58.11:962][351]LogAutomationController: Ignoring very large delta of 2.41 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.18-06.58.15:814][811]BlueprintLog: New page: Compile Main_Wid
+[2023.01.18-06.58.15:865][811]LogBlueprint: Error: [AssetLog] E:\Users\Rhys\Desktop\Rhys folder\Ed\UNI\Current\Y3\BA3B\NUA_GJ\ProjectFiles\NUA_G1_Jam_V2\NUA_G1_Jam_V2\NUA_G1_GJ_BU7\Content\Widget\Old_Widget\Main_Wid.uasset: [Compiler] Create Event  : unable to determine expected signature - is the delegate pin connected?
+[2023.01.18-06.58.15:866][811]LogBlueprint: Error: [AssetLog] E:\Users\Rhys\Desktop\Rhys folder\Ed\UNI\Current\Y3\BA3B\NUA_GJ\ProjectFiles\NUA_G1_Jam_V2\NUA_G1_Jam_V2\NUA_G1_GJ_BU7\Content\Widget\Old_Widget\Main_Wid.uasset: [Compiler] Could not find an event-dispatcher named "NPC_Ref_Update" in 'BP_ThirdPersonCharacter_C'.
+Make sure 'BP_ThirdPersonCharacter_C' has been compiled for  Bind Event to NPC_Ref_Update
+[2023.01.18-06.58.15:866][811]LogBlueprint: Error: [AssetLog] E:\Users\Rhys\Desktop\Rhys folder\Ed\UNI\Current\Y3\BA3B\NUA_GJ\ProjectFiles\NUA_G1_Jam_V2\NUA_G1_Jam_V2\NUA_G1_GJ_BU7\Content\Widget\Old_Widget\Main_Wid.uasset: [Compiler] Failed to create property K2Node_CreateDelegate_OutputDelegate_1 from  <None>  due to a bad or unknown type (Delegate)
+[2023.01.18-06.58.15:871][811]LogBlueprint: Error: [AssetLog] E:\Users\Rhys\Desktop\Rhys folder\Ed\UNI\Current\Y3\BA3B\NUA_GJ\ProjectFiles\NUA_G1_Jam_V2\NUA_G1_Jam_V2\NUA_G1_GJ_BU7\Content\Widget\Old_Widget\Main_Wid.uasset: [Compiler] Create Event  Signature Error: Unable to determine expected signature - is the delegate pin connected?
+[2023.01.18-06.58.15:951][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.01.18-06.58.16:776][867]LogSavePackage: Moving output files for package: /Game/Widget/Old_Widget/Main_Wid
+[2023.01.18-06.58.16:776][867]LogSavePackage: Moving 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Saved/Main_WidB046F55F4D2E87985D200B97569D8A87.tmp' to 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/Old_Widget/Main_Wid.uasset'
+[2023.01.18-06.58.16:790][867]AssetCheck: New page: Asset Save: Main_Wid
+[2023.01.18-06.58.16:790][867]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/Old_Widget/Main_Wid.Main_Wid
+[2023.01.18-06.58.23:625][648]LogDerivedDataCache: C:/Users/Rhys/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:05.248 and deleted 0 file(s) with total size 0 MiB.
+[2023.01.18-06.58.42:989][558]BlueprintLog: New page: Compile Main_Wid
+[2023.01.18-06.58.43:165][558]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2023.01.18-06.58.43:920][605]LogSavePackage: Moving output files for package: /Game/Widget/Old_Widget/Main_Wid
+[2023.01.18-06.58.43:920][605]LogSavePackage: Moving 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Saved/Main_Wid93FBD7ED407B33EBFBA8D1AAF1E5A495.tmp' to 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/Old_Widget/Main_Wid.uasset'
+[2023.01.18-06.58.43:933][605]AssetCheck: New page: Asset Save: Main_Wid
+[2023.01.18-06.58.43:933][605]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/Old_Widget/Main_Wid.Main_Wid
+[2023.01.18-06.58.45:249][759]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.18-06.58.45:249][759]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.01.18-06.59.10:367][253]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""D:/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat" ZipProjectUp -nocompileeditor -project="E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/" -install="E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/Backups/NUA_G1_GJ_BU10.zip"" -nocompile ]
+[2023.01.18-06.59.10:426][253]LogAutomationController: Ignoring very large delta of 20.83 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.01.18-06.59.10:447][255]UATHelper: Zip Project Task (Windows (Editor)): Running AutomationTool...
+[2023.01.18-06.59.10:677][267]UATHelper: Zip Project Task (Windows (Editor)): Parsing command line: ZipProjectUp -nocompileeditor -project="E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/" -install="E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/Backups/NUA_G1_GJ_BU10.zip" -nocompile
+[2023.01.18-06.59.11:066][289]UATHelper: Zip Project Task (Windows (Editor)): Log location: C:\Users\Rhys\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+UE_5.0\Log.txt
+[2023.01.18-06.59.11:299][306]UATHelper: Zip Project Task (Windows (Editor)): Started zipping project up
+[2023.01.18-06.59.11:299][306]UATHelper: Zip Project Task (Windows (Editor)): Project directory: E:\Users\Rhys\Desktop\Rhys folder\Ed\UNI\Current\Y3\BA3B\NUA_GJ\ProjectFiles\NUA_G1_Jam_V2\NUA_G1_Jam_V2\NUA_G1_GJ_BU7
+[2023.01.18-06.59.11:299][306]UATHelper: Zip Project Task (Windows (Editor)): Install directory: E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/Backups/NUA_G1_GJ_BU10.zip
+[2023.01.18-06.59.11:299][306]UATHelper: Zip Project Task (Windows (Editor)): Packaging up the project...
+[2023.01.18-06.59.19:871][  7]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YE/JIS390ZIR84XWUAWISRT9L
+[2023.01.18-06.59.19:872][  7]LogSavePackage: Moving 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Saved/JIS390ZIR84XWUAWISRT9L4AA4EF4E40C952DF20AEABACE89C94D2.tmp' to 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YE/JIS390ZIR84XWUAWISRT9L.uasset'
+[2023.01.18-06.59.19:896][  7]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter_C_UAID_7085C229D138815B01_1862984959
+[2023.01.18-06.59.19:896][  7]LogContentValidation: Display: Validating BP_ThirdPersonCharacter_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_7085C229D138815B01_1862984959
+[2023.01.18-06.59.21:453][175]UATHelper: Zip Project Task (Windows (Editor)): Completed zipping project up
+[2023.01.18-06.59.21:453][175]UATHelper: Zip Project Task (Windows (Editor)): BUILD SUCCESSFUL
+[2023.01.18-06.59.21:453][175]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool executed for 0h 0m 10s
+[2023.01.18-06.59.21:461][176]UATHelper: Zip Project Task (Windows (Editor)): AutomationTool exiting with ExitCode=0 (Success)
+[2023.01.18-06.59.21:592][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
