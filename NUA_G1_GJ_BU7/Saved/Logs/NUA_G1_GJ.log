@@ -10198,3 +10198,96 @@ Script Stack (0 frames):
 [2023.01.20-02.14.47:369][179]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=90
 [2023.01.20-02.14.47:384][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
 [2023.01.20-02.14.47:414][180]LogPlayLevel: Display: Destroying online subsystem :Context_116
+[2023.01.20-02.20.42:259][270]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-4535B52
+[2023.01.20-02.20.43:504][389]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-02.20.43:504][389]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-02.20.45:422][556]LogWorld: UWorld::CleanupWorld for World_84, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-02.20.45:423][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-02.20.46:589][669]LogWorld: UWorld::CleanupWorld for World_97, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-02.20.46:589][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-02.20.46:601][669]LogWorld: UWorld::CleanupWorld for World_96, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-02.20.46:601][669]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-02.20.48:144][837]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.20-02.20.48:144][837]LogWorld: UWorld::CleanupWorld for World_103, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-02.20.48:145][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-02.20.49:249][951]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.01.20-02.20.49:249][951]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-02.20.49:249][951]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-02.20.50:759][ 95]LogTurnkeySupport: Display: Adding device menu item for DESKTOP-4535B52
+[2023.01.20-02.20.51:509][182]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.01.20-02.20.51:521][182]LogWorldPartition: Display: GenerateStreaming started...
+[2023.01.20-02.20.51:521][182]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.01.20-02.20.51:521][182]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.20-02.20.51:521][182]LogWorldPartition: Display: ValidateSingleActorReferer started...
+[2023.01.20-02.20.51:521][182]LogWorldPartition: Display: ValidateSingleActorReferer took 0 us
+[2023.01.20-02.20.51:521][182]LogWorldPartition: Display: GetPartitionedActors took 55 us
+[2023.01.20-02.20.51:522][182]LogWorldPartition: Display: GenerateStreaming took 332 us
+[2023.01.20-02.20.51:522][182]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.01.20-02.20.51:522][182]PIE: New page: PIE session: ThirdPersonMap (20 Jan 2023, 02:20:51)
+[2023.01.20-02.20.51:522][182]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.20-02.20.51:533][182]LogWorldPartition: Initial Data Layer Effective States Activated() Loaded()
+[2023.01.20-02.20.51:533][182]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010942s)
+[2023.01.20-02.20.51:533][182]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.011008s)
+[2023.01.20-02.20.51:533][182]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.01.20-02.20.51:533][182]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2023.01.20-02.20.51:534][182]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.01.20-02.20.51:534][182]LogWorldPartition: UWorldPartition::Initialize(IsEditor=0, IsGame=0, IsCooking=0)
+[2023.01.20-02.20.51:537][182]LogWorldPartition: Display: WorldPartition initialize took 2 ms
+[2023.01.20-02.20.51:537][182]LogPlayLevel: PIE: World Init took: (0.003595s)
+[2023.01.20-02.20.51:610][182]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.01.20-02.20.51:625][182]LogAudio: Display: Creating Audio Device:                 Id: 91, Scope: Unique, Realtime: True
+[2023.01.20-02.20.51:625][182]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.01.20-02.20.51:625][182]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.01.20-02.20.51:625][182]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.01.20-02.20.51:625][182]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.01.20-02.20.51:625][182]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.01.20-02.20.51:625][182]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.01.20-02.20.51:625][182]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.01.20-02.20.51:625][182]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.01.20-02.20.51:626][182]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.01.20-02.20.51:626][182]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.01.20-02.20.51:626][182]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.01.20-02.20.51:627][182]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.01.20-02.20.51:652][182]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G935/G933s Gaming Headset)
+[2023.01.20-02.20.51:652][182]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.01.20-02.20.51:652][182]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.01.20-02.20.51:652][182]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.01.20-02.20.51:653][182]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=91
+[2023.01.20-02.20.51:653][182]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=91
+[2023.01.20-02.20.51:654][182]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=91
+[2023.01.20-02.20.51:654][182]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=91
+[2023.01.20-02.20.51:654][182]LogInit: FAudioDevice initialized.
+[2023.01.20-02.20.51:654][182]LogAudio: Display: Audio Device (ID: 91) registered with world 'ThirdPersonMap'.
+[2023.01.20-02.20.51:682][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-02.20.51:682][182]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.01.20-02.20.51:688][182]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2023.01.20-02.20.51
+[2023.01.20-02.20.51:688][182]LogWorld: Bringing up level for play took: 0.006014
+[2023.01.20-02.20.51:690][182]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2023.01.20-02.20.51:691][182]LogWorldPartition: New Streaming Source: NUA_Custom_Controller_C_0 -> Position: X=1410.000 Y=1840.000 Z=90.000
+[2023.01.20-02.20.51:691][182]LogWorldPartition: Warning: Invalid world bounds, grid partitioning will use a runtime grid with 1 cell.
+[2023.01.20-02.20.51:693][182]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.01.20-02.20.51:693][182]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.01.20-02.20.51:696][182]PIE: Server logged in
+[2023.01.20-02.20.51:698][182]PIE: Play in editor total start time 0.181 seconds.
+[2023.01.20-02.20.56:645][505]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.01.20-02.20.56:645][505]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2023.01.20-02.20.56:646][505]LogSlate: Window 'NUA_G1_GJ Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2023.01.20-02.20.56:650][505]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.01.20-02.20.56:651][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-02.20.56:661][505]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.01.20-02.20.56:668][505]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.01.20-02.20.56:717][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.01.20-02.20.56:719][505]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=91
+[2023.01.20-02.20.56:731][505]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.01.20-02.20.56:761][506]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2023.01.20-02.21.11:433][ 88]BlueprintLog: New page: Compile BP_ThirdPersonCharacter_0
+[2023.01.20-02.21.11:637][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2023.01.20-02.21.12:324][127]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_0
+[2023.01.20-02.21.12:324][127]LogSavePackage: Moving 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Saved/BP_ThirdPersonCharacter_00182CD36487F02EDC7A77BB17ED2B813.tmp' to 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_0.uasset'
+[2023.01.20-02.21.12:340][127]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter_0
+[2023.01.20-02.21.12:340][127]LogContentValidation: Display: Validating Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_0.BP_ThirdPersonCharacter_0
+[2023.01.20-02.21.13:347][236]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2023.01.20-02.21.13:384][236]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YE/JIS390ZIR84XWUAWISRT9L
+[2023.01.20-02.21.13:385][236]LogSavePackage: Moving 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Saved/JIS390ZIR84XWUAWISRT9L3C8AAFF347FB80BF87E11FA202932B91.tmp' to 'E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/YE/JIS390ZIR84XWUAWISRT9L.uasset'
+[2023.01.20-02.21.13:399][236]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter_C_UAID_7085C229D138815B01_1862984959
+[2023.01.20-02.21.13:399][236]LogContentValidation: Display: Validating BP_ThirdPersonCharacter_0_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_ThirdPersonCharacter_C_UAID_7085C229D138815B01_1862984959
