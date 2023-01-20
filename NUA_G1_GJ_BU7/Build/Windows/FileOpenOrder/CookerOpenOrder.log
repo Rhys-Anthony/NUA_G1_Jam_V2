@@ -1,0 +1,1288 @@
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 0
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 1
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 2
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 3
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 4
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 5
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 6
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 7
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 8
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 9
+"../../../Engine/Content/BasicShapes/Plane.ubulk" 10
+"../../../Engine/Content/BasicShapes/Plane.uasset" 11
+"../../../Engine/Content/BasicShapes/Plane.uexp" 12
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 13
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 14
+"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 15
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 16
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 17
+"../../../Engine/Content/BasicShapes/Cone.ubulk" 18
+"../../../Engine/Content/BasicShapes/Cone.uasset" 19
+"../../../Engine/Content/BasicShapes/Cone.uexp" 20
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.ubulk" 21
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 22
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 23
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 24
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 25
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 26
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 27
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 28
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 29
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 30
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 31
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 32
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 33
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 34
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 35
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 36
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 37
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 38
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 39
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 40
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 41
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 42
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 43
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 44
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 45
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 46
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 47
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 48
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 49
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 50
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 51
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 52
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 53
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 54
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 55
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 56
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 57
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 58
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 59
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 60
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 61
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 62
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 63
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 64
+"../../../Engine/Content/EngineSounds/Master.uasset" 65
+"../../../Engine/Content/EngineSounds/Master.uexp" 66
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 67
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 68
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 69
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 70
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 71
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 72
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 73
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 74
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 75
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 76
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 77
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 78
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 79
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 80
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 81
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 82
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 83
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 84
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 85
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 86
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 87
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 88
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 89
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 90
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 91
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 92
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 93
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 94
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 95
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 96
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 97
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 98
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 99
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 100
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 101
+"../../../Engine/Content/EngineResources/Black.uasset" 102
+"../../../Engine/Content/EngineResources/Black.uexp" 103
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 104
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 105
+"../../../Engine/Content/EngineMeshes/Sphere.ubulk" 106
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 107
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 108
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 109
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 110
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 111
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 112
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 113
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 114
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 115
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 116
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 117
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 118
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 119
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 120
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 121
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 122
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 123
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 124
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 125
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 126
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 127
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 128
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 129
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 130
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 131
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 132
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 133
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 134
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 135
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 136
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 137
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 138
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 140
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 141
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 142
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 143
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 144
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 145
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 146
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 147
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 148
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 149
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 150
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 151
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 152
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 153
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 154
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 155
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 156
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 157
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 158
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 159
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 160
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 161
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 162
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 163
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 164
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 165
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 166
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 167
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 168
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 169
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 170
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 171
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 172
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 173
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 174
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 175
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 176
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 177
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 178
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 179
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 180
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 181
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 182
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 183
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 184
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 185
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 186
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 187
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 188
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 189
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 190
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 191
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 192
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 193
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 194
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 195
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 196
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 197
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 198
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 199
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 200
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 201
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 202
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 203
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 204
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 205
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 206
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 207
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 208
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 209
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 210
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 211
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 212
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 213
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 214
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 215
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 216
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 217
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 218
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 219
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 220
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 221
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 222
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 223
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 224
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 225
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 226
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 227
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 228
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 229
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 230
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 231
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 232
+"../../../Engine/Content/EditorResources/S_KHinge.ubulk" 233
+"../../../Engine/Content/EditorResources/S_KHinge.uasset" 234
+"../../../Engine/Content/EditorResources/S_KHinge.uexp" 235
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 236
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 237
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 238
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 239
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 240
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 241
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 242
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 243
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 244
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 245
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 246
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 247
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 248
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 249
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uexp" 250
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 251
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 252
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 253
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 254
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 255
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 256
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 257
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 258
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 259
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uexp" 260
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 261
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 262
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 263
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 264
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 265
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 266
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.ubulk" 267
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 268
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 269
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 270
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 271
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 272
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 273
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 274
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 275
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 276
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 277
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 278
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 279
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.ubulk" 280
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 281
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 282
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.ubulk" 283
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 284
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 285
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 286
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 287
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 288
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 289
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.ubulk" 290
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 291
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 292
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.ubulk" 293
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 294
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 295
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.ubulk" 296
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 297
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 298
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.ubulk" 299
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 300
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 301
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.ubulk" 302
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 303
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 304
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.ubulk" 305
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 306
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 307
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 308
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 309
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 310
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 311
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 312
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 313
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uasset" 314
+"../../../Engine/Content/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial.uexp" 315
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 316
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 317
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 318
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 319
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 320
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 321
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 322
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 323
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 324
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 325
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 326
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 327
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 328
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 329
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 330
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 331
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 332
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 333
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 334
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 335
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 336
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 337
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 338
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 339
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 340
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 341
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 342
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 343
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 344
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 345
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 346
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 347
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 348
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 349
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 350
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 351
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 352
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 353
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 354
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 355
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 356
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 357
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 358
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 359
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 360
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 361
+"../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 362
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 363
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 364
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 365
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 366
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 367
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.ubulk" 368
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uasset" 369
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_3mm.uexp" 370
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.ubulk" 371
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uasset" 372
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_1mm.uexp" 373
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.ubulk" 374
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uasset" 375
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_solid.uexp" 376
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.ubulk" 377
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uasset" 378
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_3mm.uexp" 379
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.ubulk" 380
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uasset" 381
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Triangle_1mm.uexp" 382
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.ubulk" 383
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uasset" 384
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_solid.uexp" 385
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.ubulk" 386
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uasset" 387
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_3mm.uexp" 388
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.ubulk" 389
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uasset" 390
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Star4_1mm.uexp" 391
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.ubulk" 392
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uasset" 393
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_solid.uexp" 394
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.ubulk" 395
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uasset" 396
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_3mm.uexp" 397
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.ubulk" 398
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uasset" 399
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Square_1mm.uexp" 400
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.ubulk" 401
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uasset" 402
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_solid.uexp" 403
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.ubulk" 404
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uasset" 405
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_3mm.uexp" 406
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.ubulk" 407
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uasset" 408
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Sphere_1mm.uexp" 409
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.ubulk" 410
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uasset" 411
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_solid.uexp" 412
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.ubulk" 413
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uasset" 414
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_3mm.uexp" 415
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.ubulk" 416
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uasset" 417
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedTriangle_1mm.uexp" 418
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.ubulk" 419
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uasset" 420
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_solid.uexp" 421
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.ubulk" 422
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uasset" 423
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_3mm.uexp" 424
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.ubulk" 425
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uasset" 426
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_RoundedSquare_1mm.uexp" 427
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.ubulk" 428
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uasset" 429
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_solid.uexp" 430
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.ubulk" 431
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uasset" 432
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_3mm.uexp" 433
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.ubulk" 434
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uasset" 435
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_QuarterCircle_1mm.uexp" 436
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.ubulk" 437
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uasset" 438
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_solid.uexp" 439
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.ubulk" 440
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uasset" 441
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_3mm.uexp" 442
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.ubulk" 443
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uasset" 444
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Pyramid_1mm.uexp" 445
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.ubulk" 446
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uasset" 447
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_solid.uexp" 448
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.ubulk" 449
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uasset" 450
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_3mm.uexp" 451
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.ubulk" 452
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uasset" 453
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Octagon_1mm.uexp" 454
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.ubulk" 455
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uasset" 456
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_solid.uexp" 457
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.ubulk" 458
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uasset" 459
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_3mm.uexp" 460
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.ubulk" 461
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uasset" 462
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Hexagon_1mm.uexp" 463
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.ubulk" 464
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uasset" 465
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_solid.uexp" 466
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.ubulk" 467
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uasset" 468
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_3mm.uexp" 469
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.ubulk" 470
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uasset" 471
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_HalfCircle_1mm.uexp" 472
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.ubulk" 473
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uasset" 474
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_solid.uexp" 475
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.ubulk" 476
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uasset" 477
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_3mm.uexp" 478
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.ubulk" 479
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uasset" 480
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Diamond_1mm.uexp" 481
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.ubulk" 482
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uasset" 483
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_solid.uexp" 484
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.ubulk" 485
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uasset" 486
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_3mm.uexp" 487
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.ubulk" 488
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uasset" 489
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Circle_1mm.uexp" 490
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.ubulk" 491
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uasset" 492
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_solid.uexp" 493
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.ubulk" 494
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uasset" 495
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_3mm.uexp" 496
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.ubulk" 497
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uasset" 498
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Box_1mm.uexp" 499
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.ubulk" 500
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uasset" 501
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_solid.uexp" 502
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.ubulk" 503
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uasset" 504
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_3mm.uexp" 505
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.ubulk" 506
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uasset" 507
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow_1mm.uexp" 508
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.ubulk" 509
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uasset" 510
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_solid.uexp" 511
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.ubulk" 512
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uasset" 513
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_3mm.uexp" 514
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.ubulk" 515
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uasset" 516
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow4_1mm.uexp" 517
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.ubulk" 518
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uasset" 519
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_solid.uexp" 520
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.ubulk" 521
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uasset" 522
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_3mm.uexp" 523
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.ubulk" 524
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uasset" 525
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Arrow2_1mm.uexp" 526
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 527
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 528
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Clock/Clock1.ubulk" 529
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Clock/Clock1.uasset" 530
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Clock/Clock1.uexp" 531
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Clock/palette_003.uasset" 532
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Clock/palette_003.uexp" 533
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Clock/Clock.ubulk" 534
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Clock/Clock.uasset" 535
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Clock/Clock.uexp" 536
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.ubulk" 537
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset" 538
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uexp" 539
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Struct/SCI_Notation.uasset" 540
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Struct/SCI_Notation.uexp" 541
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/UI_SC.uasset" 542
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/UI_SC.uexp" 543
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Purchase.ubulk" 544
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Purchase.uasset" 545
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Purchase.uexp" 546
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Enum/Lecturer_Selection_ENUM.uasset" 547
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Enum/Lecturer_Selection_ENUM.uexp" 548
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Enum/Operation_ENUM.uasset" 549
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Enum/Operation_ENUM.uexp" 550
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/GreyUpgrade.uasset" 551
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/GreyUpgrade.uexp" 552
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Enum/CharacterType_ENUM.uasset" 553
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Enum/CharacterType_ENUM.uexp" 554
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/UpgradeGrey.uasset" 555
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/UpgradeGrey.uexp" 556
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/Voxel_Chair.ubulk" 557
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/Voxel_Chair.uasset" 558
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/Voxel_Chair.uexp" 559
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/Voxel_Chair_Mat.uasset" 560
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/Voxel_Chair_Mat.uexp" 561
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentConceptMale.ubulk" 562
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentConceptMale.uasset" 563
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentConceptMale.uexp" 564
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/JackVoxelModel.ubulk" 565
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/JackVoxelModel.uasset" 566
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/JackVoxelModel.uexp" 567
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentConceptFemale.ubulk" 568
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentConceptFemale.uasset" 569
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentConceptFemale.uexp" 570
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentDevFemale.ubulk" 571
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentDevFemale.uasset" 572
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentDevFemale.uexp" 573
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 574
+"../../../Engine/Content/BasicShapes/Cube.uasset" 575
+"../../../Engine/Content/BasicShapes/Cube.uexp" 576
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/NPC_Submission.uasset" 577
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/NPC_Submission.uexp" 578
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Coin_Pickup_4.ubulk" 579
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Coin_Pickup_4.uasset" 580
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Coin_Pickup_4.uexp" 581
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Coin_Pickup_6.ubulk" 582
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Coin_Pickup_6.uasset" 583
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Coin_Pickup_6.uexp" 584
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Enum/Specialism_ENUM.uasset" 585
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Enum/Specialism_ENUM.uexp" 586
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Struct/Char_Info.uasset" 587
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Struct/Char_Info.uexp" 588
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Concurrency/NPC_Action_Concurrency.uasset" 589
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Concurrency/NPC_Action_Concurrency.uexp" 590
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Footsteps__Player__45.uasset" 591
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Footsteps__Player__45.uexp" 592
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentMaleAsset.ubulk" 593
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentMaleAsset.uasset" 594
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentMaleAsset.uexp" 595
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 596
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 597
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Attenuation/Atten_NPC_1.uasset" 598
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Attenuation/Atten_NPC_1.uexp" 599
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentMaleDev.ubulk" 600
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentMaleDev.uasset" 601
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentMaleDev.uexp" 602
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentAssetFemale.ubulk" 603
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentAssetFemale.uasset" 604
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/StudentAssetFemale.uexp" 605
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/KayleighVoxelModel.ubulk" 606
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/KayleighVoxelModel.uasset" 607
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/KayleighVoxelModel.uexp" 608
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/IanVoxelModel.ubulk" 609
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/IanVoxelModel.uasset" 610
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/IanVoxelModel.uexp" 611
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 612
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 613
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/defaultMat.uasset" 614
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/defaultMat.uexp" 615
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/Student_Desk_Desk_Voxel.ubulk" 616
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/Student_Desk_Desk_Voxel.uasset" 617
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/Student_Desk_Desk_Voxel.uexp" 618
+"../../../Engine/Content/EditorResources/Spawn_Point.ubulk" 619
+"../../../Engine/Content/EditorResources/Spawn_Point.uasset" 620
+"../../../Engine/Content/EditorResources/Spawn_Point.uexp" 621
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/Student_Desk_Voxel.ubulk" 622
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/Student_Desk_Voxel.uasset" 623
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/Student_Desk_Voxel.uexp" 624
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/Student_Desk_Voxel_Mat.uasset" 625
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Student/Student_Desk_Voxel_Mat.uexp" 626
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Emissive.uasset" 627
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Emissive.uexp" 628
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Screen_Inst.uasset" 629
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Screen_Inst.uexp" 630
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Tex/L2.uasset" 631
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Tex/L2.uexp" 632
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Tex/L2_Mat.uasset" 633
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Tex/L2_Mat.uexp" 634
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Tex/L1.uasset" 635
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Tex/L1.uexp" 636
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Tex/L2_Mat_Inst.uasset" 637
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Tex/L2_Mat_Inst.uexp" 638
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/defaultMat.uasset" 639
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/defaultMat.uexp" 640
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/Voxel_Chair_0.ubulk" 641
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/Voxel_Chair_0.uasset" 642
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Chair/Voxel_Chair_0.uexp" 643
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Student_Desk_0.uasset" 644
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Student_Desk_0.uexp" 645
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Test_Char.uasset" 646
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Test_Char.uexp" 647
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/GreenUpgrade.uasset" 648
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/GreenUpgrade.uexp" 649
+"../../../Engine/Content/EditorResources/Ai_Spawnpoint.ubulk" 650
+"../../../Engine/Content/EditorResources/Ai_Spawnpoint.uasset" 651
+"../../../Engine/Content/EditorResources/Ai_Spawnpoint.uexp" 652
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/NPC_Spawn.uasset" 653
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/NPC_Spawn.uexp" 654
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/UpgradeGreen.uasset" 655
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/UpgradeGreen.uexp" 656
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/w_Buy.uasset" 657
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/w_Buy.uexp" 658
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Door/Room.ubulk" 659
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Door/Room.uasset" 660
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Door/Room.uexp" 661
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Door/palette.uasset" 662
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Door/palette.uexp" 663
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/defaultMat.uasset" 664
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/defaultMat.uexp" 665
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/Lecturer_Desk.ubulk" 666
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/Lecturer_Desk.uasset" 667
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/Lecturer_Desk.uexp" 668
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Lecturer_Desk_0.uasset" 669
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Lecturer_Desk_0.uexp" 670
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/BGM_SC.uasset" 671
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/BGM_SC.uexp" 672
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/Ambient_Day_SC.uasset" 673
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/Ambient_Day_SC.uexp" 674
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/Misc_Environmental.uasset" 675
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/Misc_Environmental.uexp" 676
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Mixes/SM_Base.uasset" 677
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Mixes/SM_Base.uexp" 678
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/Ambient_Night_SC.uasset" 679
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Classes/Ambient_Night_SC.uexp" 680
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Mixes/SM_Shop.uasset" 681
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Mixes/SM_Shop.uexp" 682
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset" 683
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SK_Mannequin.uexp" 684
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.ubulk" 685
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uasset" 686
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_MSR_MSK.uexp" 687
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.ubulk" 688
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uasset" 689
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_BN.uexp" 690
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.ubulk" 691
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uasset" 692
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_ASAOMASK_MSK.uexp" 693
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.ubulk" 694
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uasset" 695
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02_CCRCCPlastic_MSK.uexp" 696
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.ubulk" 697
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uasset" 698
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_Tan.uexp" 699
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.ubulk" 700
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uasset" 701
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_D.uexp" 702
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.ubulk" 703
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uasset" 704
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_MSR_MSK.uexp" 705
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uasset" 706
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/ChromaticCurve.uexp" 707
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uasset" 708
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/CA_Mannequin.uexp" 709
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uasset" 710
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/MF_Diffraction.uexp" 711
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.ubulk" 712
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uasset" 713
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_N.uexp" 714
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uasset" 715
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/ML_BaseColorFallOff.uexp" 716
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 717
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 718
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uasset" 719
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Shared/T_UE_Logo_M.uexp" 720
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uasset" 721
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Functions/MF_logo3layers.uexp" 722
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.ubulk" 723
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uasset" 724
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_CCRCCPlastic_MSK.uexp" 725
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.ubulk" 726
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uasset" 727
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_ASAOPMASK_MSK.uexp" 728
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.ubulk" 729
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uasset" 730
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_MSR_MSK.uexp" 731
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.ubulk" 732
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uasset" 733
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_BN.uexp" 734
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.ubulk" 735
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uasset" 736
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_D.uexp" 737
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.ubulk" 738
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uasset" 739
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_01_Tan.uexp" 740
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/M_Mannequin.uasset" 741
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/M_Mannequin.uexp" 742
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.ubulk" 743
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uasset" 744
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_ASAOMASK_MSK.uexp" 745
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.ubulk" 746
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uasset" 747
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_N.uexp" 748
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.ubulk" 749
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uasset" 750
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_BN.uexp" 751
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.ubulk" 752
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uasset" 753
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_D.uexp" 754
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.ubulk" 755
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uasset" 756
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01ID_Tan.uexp" 757
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.ubulk" 758
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uasset" 759
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_01_CCRCCPlastic_MSK.uexp" 760
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uasset" 761
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_01.uexp" 762
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.ubulk" 763
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uasset" 764
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Quinn/T_Quinn_02ID_N.uexp" 765
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uasset" 766
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Instances/Quinn/MI_Quinn_02.uexp" 767
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/PA_Mannequin.uasset" 768
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/PA_Mannequin.uexp" 769
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uasset" 770
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SKM_Quinn_Simple.uexp" 771
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Go_forward_sound_5.uasset" 772
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Go_forward_sound_5.uexp" 773
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Music_Tracks/Rain__Loopable_.ubulk" 774
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Music_Tracks/Rain__Loopable_.uasset" 775
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Music_Tracks/Rain__Loopable_.uexp" 776
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Music_Tracks/Music_Cue.uasset" 777
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Music_Tracks/Music_Cue.uexp" 778
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 779
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 780
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 781
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 782
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uasset" 783
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.uexp" 784
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uasset" 785
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.uexp" 786
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 787
+"../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 788
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uasset" 789
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.uexp" 790
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uasset" 791
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun.uexp" 792
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uasset" 793
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Quinn/MF_Idle.uexp" 794
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uasset" 795
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.uexp" 796
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uasset" 797
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Jump.uexp" 798
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uasset" 799
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibrary.uexp" 800
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uasset" 801
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/CR_Mannequin_BasicFootIK.uexp" 802
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uasset" 803
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.uexp" 804
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uasset" 805
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.uexp" 806
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset" 807
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uexp" 808
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Land.uasset" 809
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Land.uexp" 810
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uasset" 811
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/Manny/MM_Idle.uexp" 812
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/ABP_Manny.uasset" 813
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/ABP_Manny.uexp" 814
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/ABP_Quinn.uasset" 815
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Animations/ABP_Quinn.uexp" 816
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/Money.uasset" 817
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/Money.uexp" 818
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Max_Level.ubulk" 819
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Max_Level.uasset" 820
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Max_Level.uexp" 821
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/Old_Widget/Main_Wid.uasset" 822
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/Old_Widget/Main_Wid.uexp" 823
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/ConceptMIcon.uasset" 824
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/ConceptMIcon.uexp" 825
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/DevMIcon.uasset" 826
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/DevMIcon.uexp" 827
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/ConceptFIcon.uasset" 828
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/ConceptFIcon.uexp" 829
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/KayleighIcon.uasset" 830
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/KayleighIcon.uexp" 831
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/AssetMIcon.uasset" 832
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/AssetMIcon.uexp" 833
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/IanBase.uasset" 834
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/IanBase.uexp" 835
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/IanIcon.uasset" 836
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/IanIcon.uexp" 837
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/DevFIcon.uasset" 838
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/DevFIcon.uexp" 839
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/JackIcon.uasset" 840
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/JackIcon.uexp" 841
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/Cross.uasset" 842
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/Cross.uexp" 843
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/AssetFIcon.uasset" 844
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/AssetFIcon.uexp" 845
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/Shop_Widget.uasset" 846
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/Shop_Widget.uexp" 847
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Go_back_sound_5.uasset" 848
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Go_back_sound_5.uexp" 849
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/W_PauseMenu.uasset" 850
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/New_Widget/W_PauseMenu.uexp" 851
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_0.uasset" 852
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_0.uexp" 853
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Submixes/SubmissionCompressor_Preset.uasset" 854
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Submixes/SubmissionCompressor_Preset.uexp" 855
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Submixes/Submission_Compressor_SS.uasset" 856
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Submixes/Submission_Compressor_SS.uexp" 857
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Buff_Power_Up_49.ubulk" 858
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Buff_Power_Up_49.uasset" 859
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/UI/Buff_Power_Up_49.uexp" 860
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Night.ubulk" 861
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Night.uasset" 862
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Night.uexp" 863
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Cue_Night.uasset" 864
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Cue_Night.uexp" 865
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Day.ubulk" 866
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Day.uasset" 867
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Day.uexp" 868
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Cue_Day.uasset" 869
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Ambience_Cue_Day.uexp" 870
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat.uasset" 871
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat.uexp" 872
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Grey_Inst.uasset" 873
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Grey_Inst.uexp" 874
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Merged/Box_Brush10_StaticMesh.ubulk" 875
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Merged/Box_Brush10_StaticMesh.uasset" 876
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Merged/Box_Brush10_StaticMesh.uexp" 877
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Screen_Inst1.uasset" 878
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Screen_Inst1.uexp" 879
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Door/Door.ubulk" 880
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Door/Door.uasset" 881
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Door/Door.uexp" 882
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/IanVoxelModel1.ubulk" 883
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/IanVoxelModel1.uasset" 884
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/IanVoxelModel1.uexp" 885
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/palette.uasset" 886
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/palette.uexp" 887
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Door_BP.uasset" 888
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Door_BP.uexp" 889
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Grey_Inst2.uasset" 890
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Grey_Inst2.uexp" 891
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Grey_Inst1.uasset" 892
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Grey_Inst1.uexp" 893
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Desk_Inst.uasset" 894
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Desk_Inst.uexp" 895
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Carpet_Inst.uasset" 896
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/Base_Mat_Carpet_Inst.uexp" 897
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/SpecialismMats/Dev_Inst.uasset" 898
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/SpecialismMats/Dev_Inst.uexp" 899
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/SpecialismMats/Concept_Inst.uasset" 900
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/SpecialismMats/Concept_Inst.uexp" 901
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/SpecialismMats/Asset_Inst.uasset" 902
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/SpecialismMats/Asset_Inst.uexp" 903
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Textures/T_GridChecker_A.ubulk" 904
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Textures/T_GridChecker_A.uasset" 905
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Textures/T_GridChecker_A.uexp" 906
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 907
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 908
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 909
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 910
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MF_ProcGrid.uasset" 911
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MF_ProcGrid.uexp" 912
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/M_PrototypeGrid.uasset" 913
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/M_PrototypeGrid.uexp" 914
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uasset" 915
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray.uexp" 916
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_Ramp.ubulk" 917
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_Ramp.uasset" 918
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_Ramp.uexp" 919
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.ubulk" 920
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset" 921
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uexp" 922
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_Cylinder.ubulk" 923
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset" 924
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_Cylinder.uexp" 925
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_Cube.ubulk" 926
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_Cube.uasset" 927
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_Cube.uexp" 928
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/M_Solid.uasset" 929
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/M_Solid.uexp" 930
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MI_Solid_Blue.uasset" 931
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MI_Solid_Blue.uexp" 932
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_ChamferCube.ubulk" 933
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset" 934
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Meshes/SM_ChamferCube.uexp" 935
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uasset" 936
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MI_PrototypeGrid_TopDark.uexp" 937
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uasset" 938
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/LevelPrototyping/Materials/MI_PrototypeGrid_Gray_02.uexp" 939
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.ubulk" 940
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uasset" 941
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UELogo_N_TGA.uexp" 942
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.ubulk" 943
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uasset" 944
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin__normals.uexp" 945
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uasset" 946
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige.uexp" 947
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 948
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 949
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 950
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 951
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.ubulk" 952
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uasset" 953
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UELogo_Mask.uexp" 954
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uasset" 955
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/Layers/ML_ShinyPlastic_Beige_Logo.uexp" 956
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.ubulk" 957
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uasset" 958
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_UE4_Mannequin_MAT_MASKA.uexp" 959
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.ubulk" 960
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uasset" 961
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01_N.uexp" 962
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.ubulk" 963
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uasset" 964
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Aluminum01.uexp" 965
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uasset" 966
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/Layers/ML_SoftMetal.uexp" 967
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 968
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 969
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.ubulk" 970
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uasset" 971
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_N.uexp" 972
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.ubulk" 973
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uasset" 974
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Textures/T_ML_Rubber_Blue_01_D.uexp" 975
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uasset" 976
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/Layers/ML_Latex_Black.uexp" 977
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uasset" 978
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_Body.uexp" 979
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uasset" 980
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Materials/M_MannequinUE4_ChestLogo.uexp" 981
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uasset" 982
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_PhysicsAsset.uexp" 983
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uasset" 984
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin_Skeleton.uexp" 985
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uasset" 986
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Meshes/SK_Mannequin.uexp" 987
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uasset" 988
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Rigs/IK_UE4_Mannequin.uexp" 989
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uasset" 990
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.uexp" 991
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uasset" 992
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_pose.uexp" 993
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uasset" 994
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.uexp" 995
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uasset" 996
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_pose.uexp" 997
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uasset" 998
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.uexp" 999
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uasset" 1000
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_pose.uexp" 1001
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uasset" 1002
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.uexp" 1003
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uasset" 1004
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_pose.uexp" 1005
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset" 1006
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uexp" 1007
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uasset" 1008
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_pose.uexp" 1009
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uasset" 1010
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.uexp" 1011
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uasset" 1012
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_pose.uexp" 1013
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uasset" 1014
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/CR_Mannequin_Procedural.uexp" 1015
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uasset" 1016
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.uexp" 1017
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uasset" 1018
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_pose.uexp" 1019
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uasset" 1020
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.uexp" 1021
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uasset" 1022
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_pose.uexp" 1023
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uasset" 1024
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.uexp" 1025
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uasset" 1026
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_pose.uexp" 1027
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uasset" 1028
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.uexp" 1029
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uasset" 1030
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_pose.uexp" 1031
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uasset" 1032
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.uexp" 1033
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uasset" 1034
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_pose.uexp" 1035
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uasset" 1036
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.uexp" 1037
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uasset" 1038
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_pose.uexp" 1039
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uasset" 1040
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.uexp" 1041
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uasset" 1042
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_pose.uexp" 1043
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uasset" 1044
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.uexp" 1045
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uasset" 1046
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_pose.uexp" 1047
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uasset" 1048
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/ABP_Manny_PostProcess.uexp" 1049
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.ubulk" 1050
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uasset" 1051
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_MSR_MSK.uexp" 1052
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.ubulk" 1053
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uasset" 1054
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_CCRCCPlastic_MSK.uexp" 1055
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.ubulk" 1056
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uasset" 1057
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_Tan.uexp" 1058
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.ubulk" 1059
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uasset" 1060
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_N.uexp" 1061
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uasset" 1062
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_01.uexp" 1063
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.ubulk" 1064
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uasset" 1065
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_BN.uexp" 1066
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.ubulk" 1067
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uasset" 1068
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_ASAOPMASK_MSK.uexp" 1069
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.ubulk" 1070
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uasset" 1071
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Textures/Manny/T_Manny_02_D.uexp" 1072
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uasset" 1073
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_02.uexp" 1074
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SKM_Manny.uasset" 1075
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SKM_Manny.uexp" 1076
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/IK_Mannequin.uasset" 1077
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/IK_Mannequin.uexp" 1078
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uasset" 1079
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Rigs/RTG_UE5Manny_UE4Manny.uexp" 1080
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uasset" 1081
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Rigs/RTG_UE4Manny_UE5Manny.uexp" 1082
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uasset" 1083
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequin_UE4/Animations/Jog_Fwd.uexp" 1084
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/RTG_Mannequin.uasset" 1085
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/RTG_Mannequin.uexp" 1086
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.uasset" 1087
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_anim.uexp" 1088
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.uasset" 1089
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_l_pose.uexp" 1090
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.uasset" 1091
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_anim.uexp" 1092
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.uasset" 1093
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_l_pose.uexp" 1094
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.uasset" 1095
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_anim.uexp" 1096
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.uasset" 1097
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_clavicle_r_pose.uexp" 1098
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.uasset" 1099
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_anim.uexp" 1100
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.uasset" 1101
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_l_pose.uexp" 1102
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.uasset" 1103
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_anim.uexp" 1104
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.uasset" 1105
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_l_pose.uexp" 1106
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.uasset" 1107
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_anim.uexp" 1108
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.uasset" 1109
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_l_pose.uexp" 1110
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.uasset" 1111
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_anim.uexp" 1112
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.uasset" 1113
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_upperarm_r_pose.uexp" 1114
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.uasset" 1115
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_anim.uexp" 1116
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.uasset" 1117
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_calf_r_pose.uexp" 1118
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.uasset" 1119
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_anim.uexp" 1120
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.uasset" 1121
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_foot_r_pose.uexp" 1122
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.uasset" 1123
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_anim.uexp" 1124
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.uasset" 1125
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_lowerarm_r_pose.uexp" 1126
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.uasset" 1127
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_anim.uexp" 1128
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.uasset" 1129
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_l_pose.uexp" 1130
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.uasset" 1131
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_anim.uexp" 1132
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.uasset" 1133
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_thigh_r_pose.uexp" 1134
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.uasset" 1135
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_anim.uexp" 1136
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.uasset" 1137
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_l_pose.uexp" 1138
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.uasset" 1139
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_anim.uexp" 1140
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.uasset" 1141
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/Poses/Quinn/Quinn_hand_r_pose.uexp" 1142
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.uasset" 1143
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.uexp" 1144
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SKM_Quinn.uasset" 1145
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SKM_Quinn.uexp" 1146
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uasset" 1147
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/SKM_Manny_Simple.uexp" 1148
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/Mannequin_LODSettings.uasset" 1149
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Meshes/Mannequin_LODSettings.uexp" 1150
+"../../../Engine/Content/BasicShapes/Sphere.ubulk" 1151
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1152
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 1153
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/MouseHitTest.uasset" 1154
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/MouseHitTest.uexp" 1155
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/BPI/Select_BPI.uasset" 1156
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/BPI/Select_BPI.uexp" 1157
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/KayleighVoxelModel0.ubulk" 1158
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/KayleighVoxelModel0.uasset" 1159
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/KayleighVoxelModel0.uexp" 1160
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/JakeVoxelModel.ubulk" 1161
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/JakeVoxelModel.uasset" 1162
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/JakeVoxelModel.uexp" 1163
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/JackVoxelModel0.ubulk" 1164
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/JackVoxelModel0.uasset" 1165
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/JackVoxelModel0.uexp" 1166
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/IanVoxelModel0.ubulk" 1167
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/IanVoxelModel0.uasset" 1168
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/IanVoxelModel0.uexp" 1169
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Sign/defaultMat.uasset" 1170
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Sign/defaultMat.uexp" 1171
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Sign/Exit_Sign.ubulk" 1172
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Sign/Exit_Sign.uasset" 1173
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Sign/Exit_Sign.uexp" 1174
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Sign/Exit_Sign_Mat.uasset" 1175
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Sign/Exit_Sign_Mat.uexp" 1176
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Room/Room.ubulk" 1177
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Room/Room.uasset" 1178
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Room/Room.uexp" 1179
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Room/palette.uasset" 1180
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Room/palette.uexp" 1181
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Room/Room_0.ubulk" 1182
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Room/Room_0.uasset" 1183
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Room/Room_0.uexp" 1184
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Plant/Plant1.ubulk" 1185
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Plant/Plant1.uasset" 1186
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Plant/Plant1.uexp" 1187
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Plant/palette.uasset" 1188
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Plant/palette.uexp" 1189
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Plant/Plant.ubulk" 1190
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Plant/Plant.uasset" 1191
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Plant/Plant.uexp" 1192
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Fire/Fire1.ubulk" 1193
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Fire/Fire1.uasset" 1194
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Fire/Fire1.uexp" 1195
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Fire/palette_002.uasset" 1196
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Fire/palette_002.uexp" 1197
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Fire/Fire.ubulk" 1198
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Fire/Fire.uasset" 1199
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Fire/Fire.uexp" 1200
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/Lecturer_Desk_Desk_Voxel.ubulk" 1201
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/Lecturer_Desk_Desk_Voxel.uasset" 1202
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/Lecturer_Desk_Desk_Voxel.uexp" 1203
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/Lecturer_Desk_Desk_Voxel_Mat.uasset" 1204
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Environment/Desks/Lecturer/Lecturer_Desk_Desk_Voxel_Mat.uexp" 1205
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 1206
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 1207
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 1208
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 1209
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset" 1210
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp" 1211
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 1212
+"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 1213
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 1214
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 1215
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 1216
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 1217
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 1218
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 1219
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 1220
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 1221
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 1222
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 1223
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 1224
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 1225
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 1226
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 1227
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 1228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 1229
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 1230
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 1231
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 1232
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 1233
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 1234
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 1235
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 1236
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 1237
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 1238
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 1239
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 1240
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 1241
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 1242
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 1243
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 1244
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 1245
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 1246
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 1247
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 1248
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 1249
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 1250
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 1251
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 1252
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 1253
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 1254
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uasset" 1255
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Characters/Mannequins/Rigs/CR_Mannequin_Body.uexp" 1256
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1257
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1258
+"../../../Engine/Content/Maps/Entry.uexp" 1259
+"../../../Engine/Content/Maps/Entry.umap" 1260
+"../../../Engine/Content/Maps/Templates/HLODs/HLODLayer_Instanced.uasset" 1261
+"../../../Engine/Content/Maps/Templates/HLODs/HLODLayer_Instanced.uexp" 1262
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/Old_Widget/JakeSpawnPoint.uasset" 1263
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Widget/Old_Widget/JakeSpawnPoint.uexp" 1264
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Chicken_call_1.ubulk" 1265
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Chicken_call_1.uasset" 1266
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/Chicken_call_1.uexp" 1267
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/ChickenActor_Blueprint.uasset" 1268
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/Ambience/ChickenActor_Blueprint.uexp" 1269
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Hammer_Impact_2.ubulk" 1270
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Hammer_Impact_2.uasset" 1271
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/SFX/Sounds/NPC/Hammer_Impact_2.uexp" 1272
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Shake/Shake1.uasset" 1273
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Shake/Shake1.uexp" 1274
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/JakeVoxelModel_0.ubulk" 1275
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/JakeVoxelModel_0.uasset" 1276
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Assets/Lecturers/JakeVoxelModel_0.uexp" 1277
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Jake_Actor.uasset" 1278
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/BP/Jake_Actor.uexp" 1279
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/DirectionalLight_Blueprint.uasset" 1280
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/Mats/DirectionalLight_Blueprint.uexp" 1281
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Blueprints/NUA_Custom_Controller.uasset" 1282
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Blueprints/NUA_Custom_Controller.uexp" 1283
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" 1284
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uexp" 1285
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Maps/ThirdPersonMap.uexp" 1286
+"E:/Users/Rhys/Desktop/Rhys folder/Ed/UNI/Current/Y3/BA3B/NUA_GJ/ProjectFiles/NUA_G1_Jam_V2/NUA_G1_Jam_V2/NUA_G1_GJ_BU7/Content/ThirdPerson/Maps/ThirdPersonMap.umap" 1287
